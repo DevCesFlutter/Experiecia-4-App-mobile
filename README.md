@@ -1,2 +1,2 @@
 # Experiecia-4-App-mobile
-Trabajo Final contruido en ionic app movile con gps 
+Trabajo Final de ramo desarrollo mobile contruido en ionic / angular / django app movile con gps 
